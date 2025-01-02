@@ -69,7 +69,7 @@ const AboutMe = () => {
                     variants={slideAnimation('up')}>
                     <h2 className='head-text'>About Me</h2>
                     <p className="subtitle">
-    Hi, I'm Dipro Paul, a Software Engineer and Entrepreneur with a diverse skill set. I specialize in software development and have a strong focus on business analysis and market research. My work also extends to conducting research for academic papers, where I explore innovative solutions and contribute to the tech industry's knowledge base. I’m passionate about building impactful digital products while driving strategic growth through data-driven insights.
+    Hi, Iam Dipro Paul, a Software Engineer and Entrepreneur with a diverse skill set. I specialize in software development and have a strong focus on business analysis and market research. My work also extends to conducting research for academic papers, where I explore innovative solutions and contribute to the tech industrys knowledge base. I am passionate about building impactful digital products while driving strategic growth through data-driven insights.
 </p>
 
                 </motion.div>
